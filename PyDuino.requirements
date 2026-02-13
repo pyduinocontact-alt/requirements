@@ -6,3 +6,5 @@ Markdown
 pyserial
 winotify
 graphviz
+py7zr
+tqdm
